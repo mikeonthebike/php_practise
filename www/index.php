@@ -1,19 +1,6 @@
 <html>
 <head>
-<style>
-.container {
-	margin-left: auto;
-	margin-right: auto;
-	width: 70%;
-	background-color: #b0e0e6;
-	pading-top: 3em;
-	margin-top: 3em;
-}
-
-p {
-	color: blue;
-}
-</style>
+<link rel="stylesheet" type="text/css" href="phpPractise.css">
 <title>PHP Test</title>
 </head>
 
